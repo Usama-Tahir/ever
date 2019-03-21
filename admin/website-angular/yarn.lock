@@ -4974,12 +4974,12 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
-echarts@^4.2.1-rc.1:
-  version "4.2.1-rc.1"
-  resolved "https://registry.yarnpkg.com/echarts/-/echarts-4.2.1-rc.1.tgz#0fdf7e3c5a3f81825c2b3f635ab87966d48c0655"
-  integrity sha512-BpGPaBOiJLdg594t+V6J+oyROEsDIVUAtBpbm+byqKtPCvDmNlGP4q+16hzo9LtcyUzvHqZdbL0AuDbvE7D+4Q==
+echarts@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/echarts/-/echarts-4.2.1.tgz#9a8ea3b03354f86f824d97625c334cf16965ef03"
+  integrity sha512-pw4xScRPsLegD/cqEcoXRKeA2SD4+s+Kyo0Na166NamOWhzNl2yI5RZ2rE97tBlAopNmhyMeBVpAeD5qb+ee1A==
   dependencies:
-    zrender "4.0.6"
+    zrender "4.0.7"
 
 ee-first@1.1.1:
   version "1.1.1"
@@ -13285,7 +13285,7 @@ zone.js@^0.8.29:
   resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.8.29.tgz#8dce92aa0dd553b50bc5bfbb90af9986ad845a12"
   integrity sha512-mla2acNCMkWXBD+c+yeUrBUrzOxYMNFdQ6FGfigGGtEVBPJx07BQeJekjt9DmH1FtZek4E9rE1eRR9qQpxACOQ==
 
-zrender@4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/zrender/-/zrender-4.0.6.tgz#cb4f681c09e63692d11053d366b8f89e6537cc69"
-  integrity sha512-uGR+vMdFyhP/qki8TRVOa3UbFlHFDdrA26v/6tX7D2cqSaCbdF4Hlng0ufU62R0j+ZkhLGGnFZ0VmWEVK9XyWA==
+zrender@4.0.7:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/zrender/-/zrender-4.0.7.tgz#15ae960822f5efed410995d37e5107fe3de10e6d"
+  integrity sha512-TNloHe0ums6zxbHfnaCryM61J4IWDajZwNq6dHk9vfWhhysO/OeFvvR0drBs/nbXha2YxSzfQj2FiCd6RVBe+Q==
